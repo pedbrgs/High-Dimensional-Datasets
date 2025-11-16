@@ -1,5 +1,7 @@
 # Binary classification
 
+Listed below are the datasets curated for binary classification benchmarking.
+
 | ID | Dataset | Source | Number of samples | Number of features | Imbalance ratio | Train subset size (%) |
 |----|---------|---------|-------------------|--------------------|------------------|------------------------|
 | 0 | 21st Century Bordeaux Wine | [Kaggle](https://www.kaggle.com/datasets/mexwell/21st-century-bordeaux-wine-dataset) | 14349 | 985 | 2.37 | 70.00 |
