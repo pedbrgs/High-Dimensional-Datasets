@@ -4,11 +4,11 @@
 
 ***
 
-## :book: About
+## About
 
 This repository provides a curated collection of high-dimensional datasets designed for performance evaluation experiments in machine learning.
 
-## :handshake: Contributions
+## Contributions
 
 Contributions are welcome!
 If you want to add new datasets, improve documentation, or provide loaders, feel free to open a pull request.
