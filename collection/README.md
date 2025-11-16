@@ -1,0 +1,1 @@
+This collections folder provides a summary of all high-dimensional preprocessed datasets available in the repository. Although it currently includes only binary classification datasets, the goal is to organize the datasets by machine learning task, such as binary classification, multiclass classification, regression, clustering, and others.
