@@ -1,0 +1,1 @@
+This pipelines folder contains all source code used to preprocess the datasets and keep them standardized. Its purpose is to make the preprocessing steps transparent and fully reproducible, while also giving users the freedom to preprocess the datasets differently if they wish.
