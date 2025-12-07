@@ -8,6 +8,15 @@
 
 This repository provides a curated collection of high-dimensional datasets designed for performance evaluation experiments in machine learning.
 
+## Repository Structure
+
+This repository is organized into two main folders:
+
+- [collection/](https://github.com/pedbrgs/High-Dimensional-Datasets/tree/main/collection): contains the curated list of datasets included in the benchmarking suite.
+- [pipeline/](https://github.com/pedbrgs/High-Dimensional-Datasets/tree/main/pipeline): contains the preprocessing pipelines implemented as Jupyter notebooks, ensuring reproducibility and transparency.
+
+Both directories are organized by machine learning task (e.g., binary classification, multiclass classification, clustering, regression, and others).
+
 ## Dataset Schema
 
 Each dataset in this collection adheres to the conventions below:
